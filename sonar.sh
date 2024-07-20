@@ -1,3 +1,6 @@
+sudo apt update
+sudo apt install unzip
+
 # Download the SonarQube Scanner
 wget -O sonar-scanner.zip https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.6.2.2472-linux.zip
 
